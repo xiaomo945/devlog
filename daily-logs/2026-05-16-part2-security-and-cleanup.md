@@ -1,5 +1,5 @@
 ---
-title: "安全加固日：许可证、环境变量与Git历史清理"
+title: "第六天公开日志（下）：安全加固日：许可证、环境变量与Git清理 - 2026-05-16"
 date: 2026-05-16
 category: 安全 + 运维
 slug: security-and-polish
