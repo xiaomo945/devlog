@@ -1,5 +1,5 @@
 ---
-title: "收尾日：域名跳转全部生效，视觉与安全双巩固"
+title: "第六天公开日志（上）：收尾日：域名跳转与视觉升级 - 2026-05-16"
 date: 2026-05-16
 category: 建站 + 安全
 slug: domain-fix-and-visual-upgrade
